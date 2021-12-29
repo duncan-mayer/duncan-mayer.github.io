@@ -1,0 +1,19 @@
+---
+title: "Duncan Mayer"
+image: ""
+links:
+  - label: GitHub
+    url: "https://github.com/duncan-mayer"
+  # - label: Twitter
+  #   url: "https://twitter.com/"
+  - label: ORCID
+     url: "https://orcid.org/my-orcid?orcid=0000-0002-4448-3353"
+  - label: Email
+    url: "mailto:Duncanmayer77@gmail.com"
+    
+output:
+  postcards::jolla_blue
+---
+ 
+I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University.
+ with interests in the nonprofit sector and applied statistics. 
