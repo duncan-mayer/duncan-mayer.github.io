@@ -8,8 +8,20 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
-    <style type="text/css">body {background-color: #3A66B7;font-family: 'Merriweather', serif;color: #FEFEFA;}</style>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <style type="text/css">body {font-family: 'Roboto Mono', serif;}</style>
+
+    <style>
+      @media screen and (min-width: 768px) {
+        .container {
+          width: 768px;
+        }
+      }
+
+      body {
+        background-color: #f5e9dd;
+      }
+    </style>
 
     <title>Duncan Mayer</title>
 
@@ -20,63 +32,89 @@
   <body>
 
     
-    <div class="container min-vh-100">
-      <div class="row min-vh-100 justify-content-center align-items-center">
-        <div class="col-12 text-center">
-          <img src= style="height:10rem" class="rounded-circle">
-          <div class="mt-3">
-            <h1>Duncan Mayer</h1>
-          </div>
-          <div class="row justify-content-center align-items-center">
-            <div class="col-6 mt-3 text-center d-none d-sm-block">
-              <p>I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University.</p>
-              <p>My research includes nonprofit studies and applied statistics.</p>
-            </div>
-            <div class="col-11 mt-3 text-center d-block d-sm-none">
-              <p>I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University.</p>
-              <p>My research includes nonprofit studies and applied statistics.</p>
-            </div>
-          </div>
-
-          <hr style="width:60%;background-color: #FEFEFA;"/>
-
-          <div class="row justify-content-center align-items-center">
-            <div class="col-8 text-center d-none d-sm-block">
-              <ul class="list-inline">
-                                <li class="list-inline-item">
-                  <a href=https://github.com/duncan-mayer>
-                    <button type="button" class="btn btn-outline-light mb-2">
-                      GitHub
-                    </button>
-                  </a>
-                </li>
-                                <li class="list-inline-item">
-                  <a href=mailto:Duncanmayer77@gmail.com>
-                    <button type="button" class="btn btn-outline-light mb-2">
-                      Email
-                    </button>
-                  </a>
-                </li>
-                              </ul>
-            </div>
-          </div>
-
-          <div class="row justify-content-center align-items-center">
-            <div class="col-8 m-1 text-center d-block d-sm-none">
-              <div class="list-group">
-                                <a href=https://github.com/duncan-mayer>
-                  <button type="button" class="list-group-item list-group-item-action my-1 rounded" style="background-color: #3A66B7;color: #FEFEFA;border-color: #FEFEFA;">
+    <div class="container d-none d-lg-block d-xl-block">
+      <div class="row mt-5">
+        <div class="col-7 mt-5">
+          <h1>Duncan Mayer</h1>
+          <hr style="max-width: 200px; margin-left:0;" style="width:60%;"/>
+          <div class="my-3" id="icon-list">
+            <ul class="list-inline">
+                            <li class="list-inline-item">
+                <a href=https://github.com/duncan-mayer>
+                  <button type="button" class="btn btn-outline-dark mb-2">
                     GitHub
                   </button>
                 </a>
-                                <a href=mailto:Duncanmayer77@gmail.com>
-                  <button type="button" class="list-group-item list-group-item-action my-1 rounded" style="background-color: #3A66B7;color: #FEFEFA;border-color: #FEFEFA;">
+              </li>
+                            <li class="list-inline-item">
+                <a href=mailto:Duncanmayer77@gmail.com>
+                  <button type="button" class="btn btn-outline-dark mb-2">
                     Email
                   </button>
                 </a>
-                              </div>
-            </div>
+              </li>
+                          </ul>
           </div>
+        </div>
+
+        <div class="col mr-4 mt-5">
+          <img src="sante_fe.jpeg" style="height:15rem" class="rounded float-right">
+        </div>
+      </div>
+      <div class="row mb-5">
+        <div class="col">
+          <div id="bio" class="section level3">
+          <h3>Bio</h3>
+          <p>I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University.</p>
+          <p>My research involves community organization dynamics (particularly nonprofits)- this includes the distribution of organizations and the benefits they bring to their regions. I also maintain an interest in applied statistics.</p>
+          </div>
+          <div id="recent-work" class="section level3">
+          <h3>Recent work:</h3>
+          <p><br> <br> <br> <em>This website was created in ~15 minutes using the</em> <code>postcards</code> <em>package developed by Sean Kross https://github.com/seankross/postcards</em></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-block d-lg-none d-xl-none">
+      <div class="d-flex flex-row justify-content-center">
+        <div class="d-flex flex-col">
+          <div class="mx-auto">
+            <div class="p-3 mt-3 text-center">
+              <img src="sante_fe.jpeg" style="height:15rem" class="rounded">
+            </div>
+            <div class="p-2 text-center">
+              <h1>Duncan Mayer</h1>
+            </div>
+            <hr style="width:60%;"/>
+
+            <div class="row justify-content-center align-items-center">
+              <div class="col-8 p-1 text-center">
+                <div class="list-group">
+                                    <a href=https://github.com/duncan-mayer>
+                    <button type="button" class="list-group-item list-group-item-action my-1 rounded" style="background-color: #f5e9dd; color: black;border-color: black;">
+                      GitHub
+                    </button>
+                  </a>
+                                    <a href=mailto:Duncanmayer77@gmail.com>
+                    <button type="button" class="list-group-item list-group-item-action my-1 rounded" style="background-color: #f5e9dd; color: black;border-color: black;">
+                      Email
+                    </button>
+                  </a>
+                                  </div>
+              </div>
+            </div>
+            <div class="mt-4 mb-5 mx-2">
+              <div id="bio" class="section level3">
+              <h3>Bio</h3>
+              <p>I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University.</p>
+              <p>My research involves community organization dynamics (particularly nonprofits)- this includes the distribution of organizations and the benefits they bring to their regions. I also maintain an interest in applied statistics.</p>
+              </div>
+              <div id="recent-work" class="section level3">
+              <h3>Recent work:</h3>
+              <p><br> <br> <br> <em>This website was created in ~15 minutes using the</em> <code>postcards</code> <em>package developed by Sean Kross https://github.com/seankross/postcards</em></p>
+              </div>
+            </div>
         </div>
       </div>
     </div>
