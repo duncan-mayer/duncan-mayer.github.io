@@ -25,4 +25,4 @@ My research involves community organization dynamics (particularly nonprofits)- 
 <br>
 <br>
 <br>
-*This website was created in ~15 minutes using the* `postcards` *package developed by Sean Kross https://github.com/seankross/postcards*
+*This website was created using the* `postcards` *package developed by Sean Kross https://github.com/seankross/postcards*
