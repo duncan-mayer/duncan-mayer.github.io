@@ -4,6 +4,8 @@ image: "sante_fe.jpeg"
 links:
   - label: GitHub
     url: "https://github.com/duncan-mayer"
+  # - label: CV
+  # url: "cv.url"
   # - label: Twitter
   #   url: "https://twitter.com/"
   - label: Email
@@ -17,7 +19,7 @@ output:
 
 I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University. 
 
-My research involves community organization dynamics (particularly nonprofits)- this includes the distribution of organizations and the benefits they bring to their regions. I also maintain an interest in applied statistics. 
+My research involves community organization dynamics (particularly nonprofits). This includes the distribution of organizations and the benefits they bring to their regions. I also maintain an interest in applied statistics, particularly hierarhcical models, Bayesian and otherwise. 
 
 ### Recent work:
 
