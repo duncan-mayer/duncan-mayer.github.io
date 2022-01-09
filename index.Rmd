@@ -24,7 +24,3 @@ My research is broadly in the area of nonprofit studies. Currently, I'm focused 
 ### Recent work:
 
 
-<br>
-<br>
-<br>
-*This website was created using the* `postcards` *package developed by Sean Kross https://github.com/seankross/postcards*
