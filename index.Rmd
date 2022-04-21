@@ -19,7 +19,7 @@ output:
 
 I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University. 
 
-My research is broadly in the area of nonprofit studies. Currently, I'm focused on community organization dynamics, including the distribution of organizations and the benefits they bring to their regions. I also maintain an interest in program evaluation and applied statistics (particularly hierarchical models and rich parameterizations). 
+My research is in nonprofit studies, ranging from understanding how organizations use data to financial management. My current research is focused on community-organizations dynamics: the distribution of organizations and the benefits they bring to their regions. I also maintain an interest in program evaluation and applied statistics. 
 
 ### Recent work:
 
