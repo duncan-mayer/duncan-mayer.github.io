@@ -26,9 +26,9 @@ I also maintain an interest in program evaluation and applied statistics, partic
 ### Education
 
 *Case Western Reserve University* (Cleveland, OH) [2018-present]{style="float:right"} \
-*Jack, Joseph and Morton Mandel School of Applied Social Sciences* 
-
+*Jack, Joseph and Morton Mandel School of Applied Social Sciences* \
 PhD Candidate in Social Welfare 
+
 
 *Marywood University*, MSW (Dunmore, PA) [2017]{style="float:right"} \
 Thesis; Evaluation Capacity: Structures, Stakeholders, Attitudes, and Environment
