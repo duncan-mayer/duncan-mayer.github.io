@@ -15,12 +15,28 @@ output:
   postcards::solana
 ---
 
-### Bio 
+### Biography 
 
-I am a social worker and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University. 
+Trained as a social worker, I became broadly curious about social science and the role of organizations in our society.  I am currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University. 
 
-My research is in nonprofit studies, ranging from understanding how organizations use data to financial management. My current research is focused on community-organizations dynamics: the distribution of organizations and the benefits they bring to their regions. I also maintain an interest in program evaluation and applied statistics. 
+My research is in nonprofit studies, covering a range of topics including finance and data use. Currently, I am most interested in community-organizations dynamics and organizational demography; the distribution of organizations and the benefits they bring to their regions. 
+
+I also maintain an interest in program evaluation and applied statistics, particularly hierarchical models and spatial statistics. 
+
+### Education
+
+*Case Western Reserve University* (Cleveland, OH) [2018-present]{style="float:right"} \
+*Jack, Joseph and Morton Mandel School of Applied Social Sciences* 
+
+PhD Candidate in Social Welfare 
+
+*Marywood University*, MSW (Dunmore, PA) [2017]{style="float:right"} \
+Thesis; Evaluation Capacity: Structures, Stakeholders, Attitudes, and Environment
+
+*Marywood University*, BSW (Dunmore, PA)  [2016]{style="float:right"} \
+
 
 ### Recent work:
 
+Mayer, D. J., Fischer, R. L. (online first) Can a Measurement Error Perspective Improve Estimation in Neighborhood Effects Research? A Hierarchical Bayesian Methodology. Social Science Quarterly.[https://doi.org/10.1111/ssqu.13190](https://doi.org/10.1111/ssqu.13190)
 
