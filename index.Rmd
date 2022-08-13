@@ -2,12 +2,12 @@
 title: "Duncan Mayer"
 image: "sante_fe.jpeg"
 links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/duncan-mayer-480872244"
   - label: GitHub
     url: "https://github.com/duncan-mayer"
   # - label: CV
   # url: "cv.url"
-  # - label: Twitter
-  #   url: "https://twitter.com/"
   - label: Email
     url: "mailto:Duncanmayer77@gmail.com"
     
