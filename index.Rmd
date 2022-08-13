@@ -19,7 +19,7 @@ output:
 
 Trained as a social worker, I became broadly curious about social science and the role of organizations in society.  I am currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University. 
 
-My research is in nonprofit studies, covering a range of topics including finance and data use. Currently, I am most interested in community-organization dynamics and organizational demography; the distribution of organizations and the benefits they bring to their regions. 
+As a researcher I am broadly curious about quantitative methodology in the social sciences and the role of organizations in society. My research has covered a range of topics in organizational studies, including finance and data use. Currently, I am most interested in community-organizations dynamics and organizational demography; the distribution of organizations and the benefits they bring to their regions. 
 
 I also maintain an interest in program evaluation and applied statistics, particularly hierarchical models and spatial statistics. 
 
@@ -34,6 +34,15 @@ PhD Candidate in Social Welfare
 Thesis; Evaluation Capacity: Structures, Stakeholders, Attitudes, and Environment
 
 *Marywood University*, BSW (Dunmore, PA)  [2016]{style="float:right"} \
+
+
+### Upcoming talks
+
+I will be presenting two papers at the Annual Conference of the Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) between November 16th and 19th:
+
+Revealed Preference for Nonprofit Organizations; A Hedonic Price Analysis
+
+Nonprofit Response to Neighborhood Conditions: Incorporating Space-Time Heterogeneity
 
 
 ### Recent work:
