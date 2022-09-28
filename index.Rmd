@@ -17,18 +17,16 @@ output:
 
 ### Biography 
 
-I am social scientist, social worker, and currently a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University, working with the Center on Poverty and Community Development. 
+I am social scientist with nearly a decade of research experience and expertise in several areas of applied statistics, particularly hierarchical models. Currently, I am Statistician with BeVera Solutions (Atlanta, GA) and a PhD candidate in social welfare at the Jack, Joseph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University (Cleveland, OH), working with the Center on Poverty and Community Development. 
 
-As a researcher I am broadly curious about quantitative methodology in the social sciences and the role of organizations in society. My research has covered a range of topics in organizational studies, including finance and data use. Currently, I am most interested in community-organizations dynamics and organizational demography; the distribution of organizations and the benefits they bring to their regions. 
+My research has covered a range of topics in quantitative methods, program evaluation, public policy, and organizational studies. My dissertation research explores several critical questions in community-organizations dynamics and organizational demography; exploring the distribution of organizations and the benefits they bring to their regions.
 
-I also maintain an interest in program evaluation and applied statistics, particularly hierarchical models and spatial statistics. 
 
 ### Education
 
-*Case Western Reserve University* (Cleveland, OH) [2018-present]{style="float:right"} \
+*Case Western Reserve University* (Cleveland, OH) [expected 2023]{style="float:right"} \
 *Jack, Joseph and Morton Mandel School of Applied Social Sciences* \
 PhD Candidate in Social Welfare 
-
 
 *Marywood University*, MSW (Dunmore, PA) [2017]{style="float:right"} \
 Thesis; Evaluation Capacity: Structures, Stakeholders, Attitudes, and Environment
@@ -37,6 +35,10 @@ Thesis; Evaluation Capacity: Structures, Stakeholders, Attitudes, and Environmen
 
 
 ### Upcoming talks
+
+On October 13th I will present a brief talk at Data Day's Cleveland: 
+Understanding the geography of Cuyahoga County’s nonprofit sector through form-990 data
+
 
 I will be presenting two papers at the Annual Conference of the Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA) between November 16th and 19th:
 
@@ -47,5 +49,8 @@ Nonprofit Response to Neighborhood Conditions: Incorporating Space-Time Heteroge
 
 ### Recent work:
 
-Mayer, D. J., Fischer, R. L. (online first) Can a Measurement Error Perspective Improve Estimation in Neighborhood Effects Research? A Hierarchical Bayesian Methodology. Social Science Quarterly. [https://doi.org/10.1111/ssqu.13190](https://doi.org/10.1111/ssqu.13190)
+**Mayer, D. J.** (2022) Simmer Down Now! A Study of Revenue Volatility and Dissolution in Nonprofit Organizations. *Nonprofit and Voluntary Sector Quarterly*.  [https://doi.org/10.1177/08997640221126147](https://doi.org/10.1177/08997640221126147)
+
+
+Mayer, D. J., Fischer, R. L. (2022) Can a Measurement Error Perspective Improve Estimation in Neighborhood Effects Research? A Hierarchical Bayesian Methodology. Social Science Quarterly. [https://doi.org/10.1111/ssqu.13190](https://doi.org/10.1111/ssqu.13190)
 
