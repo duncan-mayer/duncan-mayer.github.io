@@ -6,6 +6,8 @@ links:
     url: "https://www.linkedin.com/in/duncan-mayer"
   - label: GitHub
     url: "https://github.com/duncan-mayer"
+  - label: Non-Academic Resume
+    url: "https://github.com/duncan-mayer/CV/blob/main/dm_resume_single.pdf"
   - label: CV
     url: "https://github.com/duncan-mayer/CV/blob/main/DM_CV.pdf"
   - label: Email
@@ -15,10 +17,10 @@ output:
   postcards::solana
 ---
 
-**This website is deprecated**, see my [new website](https://duncanjmayer.netlify.app/), for updates. Eventually I'll transfer the domain.
+I'm Duncan J. Mayer, a data scientist with nearly a decade of experience with research and data analysis. I maintain good coding practices and am comfortable building, evaluating, and interpreting everything from well known algorithms to bespoke models. I bring domain expertise in organizational theory and the use of data in organizations.
 
-I'm Duncan J. Mayer. I am a quantitative social scientist (data scientist) with nearly a decade of experience with research and data analysis. I maintain good coding practices and am comfortable building, evaluating, and interpreting everything from well known algorithms to bespoke models. I bring domain expertise in organizational theory and the use of data in organizations.
+I'm a statistician at [BeVera Solutions](https://www.beverasolutions.com/) and a PhD candidate with the [Center on Poverty and Community Development in the Jack Joesph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University](https://case.edu/socialwork/povertycenter/)
 
-I'm a statistician at BeVera Solutions and a PhD candidate with the Center on Poverty and Community Development in the Jack Joesph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University
+For other updates, check out my [blog](https://duncanjmayer.netlify.app/). 
 
 
