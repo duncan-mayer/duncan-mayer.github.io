@@ -17,9 +17,9 @@ output:
   postcards::solana
 ---
 
-I'm Duncan J. Mayer, a data scientist with nearly a decade of experience with research and data analysis. I maintain good coding practices and am comfortable building, evaluating, and interpreting everything from well known algorithms to bespoke models. I bring domain expertise in organizational theory and the use of data in organizations.
+I'm Duncan J. Mayer, a social scientist with over six years of experience using rigorous research and evaluation methods to understand programs, policies, and behaviors. I have experience designing and leading projects with academic, government, and private sector stakeholders, in research, consulting, and technical assistance in such areas as child welfare and health, workforce and community development, and capacity building. I have a passion for data science, I maintain good coding practices and am comfortable building, evaluating, and interpreting everything from well known algorithms to bespoke models. 
 
-I'm a statistician at [BeVera Solutions](https://www.beverasolutions.com/) and a PhD candidate with the [Center on Poverty and Community Development in the Jack Joesph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University](https://case.edu/socialwork/povertycenter/)
+I'm a statistician at [BeVera Solutions](https://www.beverasolutions.com/) and recently completed a PhD with the [Center on Poverty and Community Development in the Jack Joesph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University](https://case.edu/socialwork/povertycenter/)
 
 For other updates, check out my [blog](https://duncanjmayer.netlify.app/). 
 
