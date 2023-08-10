@@ -6,8 +6,6 @@ links:
     url: "https://www.linkedin.com/in/duncan-mayer"
   - label: GitHub
     url: "https://github.com/duncan-mayer"
-  - label: Non-Academic Resume
-    url: "https://github.com/duncan-mayer/CV/blob/main/dm_resume_single.pdf"
   - label: CV
     url: "https://github.com/duncan-mayer/CV/blob/main/DM_CV.pdf"
   - label: Email
