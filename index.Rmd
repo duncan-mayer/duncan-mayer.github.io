@@ -15,7 +15,9 @@ output:
   postcards::solana
 ---
 
-I'm Duncan J. Mayer, a social scientist with over six years of experience using rigorous research and evaluation methods to understand programs, policies, and behaviors. I have experience designing and leading projects with academic, government, and private sector stakeholders, in research, consulting, and technical assistance in such areas as child welfare and health, workforce and community development, and capacity building. I have a passion for data science, I maintain good coding practices and am comfortable building, evaluating, and interpreting everything from well known algorithms to bespoke models. 
+I'm Duncan J. Mayer, a social scientist and statistician with experience designing and leading projects with academic, government, and private sector stakeholders, in research, consulting, and technical assistance across such areas as child welfare and health, criminal justice, community development, and capacity building. I excel at research dissemination and have communicated results and recommendations to audiences with a range of technical sophistication.
+
+I am skilled in methodologies used throughout the social sciences and have developed expertise in quantitative approaches, particularly the analysis of quasi-experimental designs and hierarchical models. I use a modern computational workflow including version control, and am literate in R, SQL, as well as domain specific languages. I can quickly orient myself to new projects, and have experience working with diverse data sources: structured and unstructured data, as well as relational databases, administrative data, and surveys. I have a passion for data science, I maintain good coding practices and am comfortable building, evaluating, and interpreting everything from well known algorithms to bespoke models. 
 
 I'm a statistician at [BeVera Solutions](https://www.beverasolutions.com/) and recently completed a PhD with the [Center on Poverty and Community Development in the Jack Joesph, and Morton Mandel School of Applied Social Sciences at Case Western Reserve University](https://case.edu/socialwork/povertycenter/)
 
